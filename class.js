@@ -106,4 +106,3 @@ console.log(ainS.order()) // 스페셜 커피 연유라떼 small 사이즈는 50
 
 console.log(ainS.making()) // 아인슈페너를 만드는 중...
 console.log(ainS.made()) // 아인슈페너가 만들어졌습니다.
-
